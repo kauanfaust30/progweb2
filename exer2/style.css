@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    background: #1e293b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* caixa */
+.app {
+    background: #334155;
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+}
+
+/* input */
+input {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 10px;
+}
+
+/* botão */
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: #3b82f6;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
+
+/* resultado */
+.resultado {
+    margin-top: 15px;
+    font-size: 18px;
+}
