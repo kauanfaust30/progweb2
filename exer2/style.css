@@ -7,16 +7,16 @@ body {
     height: 100vh;
 }
 
-/* caixa */
+
 .app {
-    background: #334155;
+    background: #485c77;
     padding: 30px;
     border-radius: 12px;
     text-align: center;
     color: white;
 }
 
-/* input */
+
 input {
     padding: 10px;
     border-radius: 8px;
@@ -24,7 +24,6 @@ input {
     margin-top: 10px;
 }
 
-/* botão */
 button {
     display: block;
     margin: 10px auto;
@@ -36,7 +35,6 @@ button {
     cursor: pointer;
 }
 
-/* resultado */
 .resultado {
     margin-top: 15px;
     font-size: 18px;

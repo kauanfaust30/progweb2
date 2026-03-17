@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
-<title>Par ou Ímpar</title>
+<title>Exercicio 2</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
